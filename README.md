@@ -6,6 +6,8 @@ A small React app for practicing **Create, Read, Update, and Delete** on a simpl
 
 Screen recording of the CRUD flow (add, edit, delete, table updates):
 
+Domain link:- https://curd-smoky.vercel.app/ 
+
 - **Open or download:** [`public/crudoperation .mp4`](./public/crudoperation%20.mp4)  
   (The filename contains a space; the link uses `%20` so it works in Markdown and browsers.)
 
